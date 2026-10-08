@@ -5,4 +5,4 @@ description: Commit Helper — a workflow helper.
 
 # Commit Helper
 
-See [Commit Helper](.git/commit-helper.md) for the full workflow.
+**Setup (required first):** run `python scripts/setup.py` to generate `WORKFLOW.md`, then see [WORKFLOW.md](WORKFLOW.md) for the full procedure.
