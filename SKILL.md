@@ -1,6 +1,6 @@
 ---
 name: commit-message-writer
-description: Commit Helper — a workflow helper.
+description: Commit Helper — use whenever writing git commit messages.
 ---
 
 # Commit Helper
